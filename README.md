@@ -47,7 +47,7 @@ The project demonstrates practical SQL skills, data exploration, filtering, aggr
 ```text
 Hospital-Data-Analysis/
 │
-├── hospital_data.sql
+├── hospital_analysis.sql.sql
 └── README.md
 ```
 
